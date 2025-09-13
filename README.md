@@ -1,6 +1,6 @@
-# PowerFit Gym Website
+# AkashFit Gym Website
 
-![PowerFit Gym](https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg)
+![AkashFit Gym](https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg)
 
 A fully **responsive Gym website** built using **HTML** and **Bootstrap 5**. This website is designed to provide an engaging user experience for fitness enthusiasts, showcasing gym services, trainers, and contact information.
 
@@ -29,7 +29,7 @@ A fully **responsive Gym website** built using **HTML** and **Bootstrap 5**. Thi
 
 ## 🔹 Project Structure
 
-PowerFit-Gym/
+AkashFit-Gym/
 │
 ├── index.html # Main HTML file
 ├── README.md # Project documentation
@@ -37,4 +37,5 @@ PowerFit-Gym/
 ├── images/ # Images used in the website
 └── js/ # Optional folder for custom JS
 
-
+yaml
+Copy code
